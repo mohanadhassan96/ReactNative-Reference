@@ -1,0 +1,12 @@
+//who converts React to support webSites is React dom library .
+//who converts React to support mobile apps is React native library.
+//with React native you cabn create apps for android and ios .
+// ui elements are converted , but js code is not converted the app with react active ,will activate
+js enviroment to run the code .
+//cli :command line interface .
+//expo cli :its free , third part company offers it , easy to use you can switch to React native cli
+any time duration the project
+React native cli : the old one , provided from React team , hard to use ,less features 
+//use expo Cli is more new and better.
+//in the course we will use expo.
+//
