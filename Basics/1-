@@ -13,4 +13,12 @@ React native cli : the old one , provided from React team , hard to use ,less fe
 qr code .
 //you can run the development in android studio by open a emulator.
 //you can run it in the web page like when you are bulding an website with react.
+//you cant use html elements with react native .
+//the name of elements is ui components in react native .
+//react native compnents are translated under the hood to native ui elements .
+//you cant use css with react native .
+//you can implement inline styles , or by help of style sheet objects (its like styled compnents).
+//the styling under the hood is wroten with javescript ,but the syntax is presented to be like css.
+//the root elment is App.js .
+
 
