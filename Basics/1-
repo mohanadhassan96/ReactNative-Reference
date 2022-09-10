@@ -9,4 +9,8 @@ any time duration the project
 React native cli : the old one , provided from React team , hard to use ,less features 
 //use expo Cli is more new and better.
 //in the course we will use expo.
-//
+//you can run the development on your phone by download app expo go and npm start then scan the 
+qr code .
+//you can run the development in android studio by open a emulator.
+//you can run it in the web page like when you are bulding an website with react.
+
